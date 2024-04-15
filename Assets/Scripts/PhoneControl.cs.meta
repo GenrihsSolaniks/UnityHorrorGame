@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ac2534381e73b494aa278b7b229545b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Phone: {instanceID: 0}
+  - message: {instanceID: 0}
+  - message1: {fileID: 8300000, guid: a058005d7cd91ab4b937ad29b63b9d8b, type: 3}
+  - message2: {fileID: 8300000, guid: 13d3795b536bd5641996104420a87782, type: 3}
+  - message3: {fileID: 8300000, guid: 0f8ae2c70a09598468ef5b89033e24b4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
